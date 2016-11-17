@@ -1,7 +1,7 @@
 {
   "name": "moment-easter",
   "description": "This plugin provides a way to get the date of Gregorian Easter Sunday for a given year.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": ["moment", "easter", "gregorian"],
   "author": "Ziad El Khoury Hanna <ziad.khoury.h@gmail.com>",
   "main": "./moment.easter",
